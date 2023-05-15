@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtyagi-2003&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtyagi-2003" /> </p>
 
-- I'm currently working my MERN stack website [Codify Programming](https://delightful-lily-5c38ef.netlify.app/)
+- I'm currently working on my MERN stack website [Codify Programming](https://delightful-lily-5c38ef.netlify.app/)
 
 - 🌱 I’m currently learning **Nodejs**
 
